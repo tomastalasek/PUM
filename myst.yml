@@ -1,0 +1,30 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 7f684c67-afc4-4d2e-ba4e-af35b35a5b9d
+  # title: PUM
+  # description:
+  # keywords: []
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: Obsah.md
+    - file: Kapitola01.ipynb
+    - file: Kapitola02.ipynb
+    - file: Kapitola03.ipynb
+    - file: Kapitola04.ipynb
+    - file: Kapitola05.ipynb
+    - file: Kapitola06.ipynb
+    - file: DomaciUkol01.ipynb
+    - file: DomaciUkol02.ipynb
+    - file: DomaciUkol03.ipynb
+    - file: DomaciUkol04.ipynb
+    - file: DomaciUkol05.ipynb
+    - file: DomaciUkol06.ipynb
+    
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  logo: logo.png
