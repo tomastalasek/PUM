@@ -2,7 +2,8 @@
 version: 1
 project:
   id: 7f684c67-afc4-4d2e-ba4e-af35b35a5b9d
-  # title: PUM
+  title: PUM
+  url: pum.talasek.net
   # description:
   # keywords: []
   # authors: []
